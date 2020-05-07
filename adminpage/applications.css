@@ -1,0 +1,13 @@
+table,th,td{
+	border-collapse: collapse;
+	border: 2px solid black;
+}
+td{
+	height: auto;
+}
+table{
+	width: 100%;
+}
+#page{
+	float: right;
+}
